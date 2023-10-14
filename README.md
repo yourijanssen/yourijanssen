@@ -1,5 +1,5 @@
 
-### :hammer_and_wrench: Languages and Frameworks :
+:hammer_and_wrench: Languages and Frameworks:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" title="Mocha" **alt="Git" width="40" height="40"/>
@@ -12,7 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
-### :hammer_and_wrench: Tools :
+:hammer_and_wrench: Tools:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="Git" width="40" height="40"/>
